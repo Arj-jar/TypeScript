@@ -1,0 +1,4 @@
+# ts is a super script of js , so basically it takes js to next lvl
+
+
+# used with react , or node or express or angular
