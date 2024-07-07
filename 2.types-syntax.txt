@@ -1,0 +1,7 @@
+# working with types - syntax and more
+
+core -->
+1. number - only one type for all 10,-10,10.10,1000000000000000
+2. string - 'hi' , "hi" , `hi`
+3. boolean - true ,false
+
