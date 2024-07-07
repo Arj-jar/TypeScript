@@ -2,3 +2,24 @@
 
 
 # used with react , or node or express or angular
+
+
+
+#
+npm init 
+
+to install package.json
+
+npm install --save-dev lite-server
+
+to install the package-lock.json 
+
+
+after installing this 
+
+go to packagejson scripts key 
+
+add , 
+
+"start" : "lite-server"        ----> a lite server is a simple development server which always serves the index html files ,  it opens ports to check live 
+why is this necesarry , this will automatically reload the page once found changes .     
