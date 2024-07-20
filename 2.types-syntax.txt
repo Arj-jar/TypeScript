@@ -5,3 +5,5 @@ core -->
 2. string - 'hi' , "hi" , `hi`
 3. boolean - true ,false
 
+4. objects - {'age':30,'height':710}
+- object types are there to define object with all them having data inside defined.
